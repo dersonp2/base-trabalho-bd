@@ -59,9 +59,9 @@ Confira a explicação detalhada do sistema e do código no link abaixo:
 ---
 
 ## 📄 Regras de Negócio e Consultas Complexas
-O sistema realiza uma consulta complexa que une as tabelas `Pedidos`, `Clientes` e `Itens_Pedido` utilizando:
-* **INNER JOIN**: Para listar apenas pedidos que possuem clientes cadastrados.
-* **LEFT JOIN**: Para listar todos os produtos, inclusive aqueles que nunca foram vendidos.
+O sistema realiza uma consulta complexa etc...:
+* **INNER JOIN**: Para listar xxxx.
+* **LEFT JOIN**: Para listar xxxx.
 
 ---
 
